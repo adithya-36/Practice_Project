@@ -32,7 +32,9 @@ body
 }
 #hero
 {
-  background-image: url("images/galaxy.webp");
+  background-image: url("images/galaxy.avif");
   background-size: cover;
   padding: 150px 0 150px 0;
+  height: 50vh;
+  width: auto;
 }
